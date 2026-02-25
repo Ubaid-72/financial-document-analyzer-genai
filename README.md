@@ -70,9 +70,3 @@ Ubaidulla Makandar
 
 
 ---
-
-This version is:
-✅ Clean  
-✅ Recruiter-friendly  
-✅ GitHub-ready  
-✅ Not over-explained  
