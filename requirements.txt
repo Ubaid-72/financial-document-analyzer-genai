@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain
+langchain-openai
+python-dotenv
+pypdf
+fastapi
+openai
